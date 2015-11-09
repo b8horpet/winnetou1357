@@ -1,3 +1,4 @@
 [submodule "RockPaperScissors"]
 	path = RockPaperScissors
 	url = https://github.com/b8horpet/RockPaperScissors
+	branch = master
